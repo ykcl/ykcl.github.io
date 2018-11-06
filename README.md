@@ -1,4 +1,4 @@
-<head>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128679952-2"></script>
 <script>
@@ -9,11 +9,6 @@
   gtag('config', 'UA-128679952-2');
 </script>
 
-
-    <title>要看草榴</title>
-    <meta name="author" content="cometeme">
-    <meta name="description" content="请收藏本页">
-<head>
 
 
 **ykcl（要看草榴）**
