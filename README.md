@@ -8,6 +8,12 @@
   gtag('config', 'UA-128679952-2');
 </script>
 
+<head>
+    <title>要看草榴</title>
+    <meta name="author" content="cometeme">
+    <meta name="description" content="请收藏本页">
+<head>
+
 
 **ykcl（要看草榴）**
 
