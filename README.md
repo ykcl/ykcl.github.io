@@ -1,4 +1,3 @@
----
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128679952-2"></script>
 <script>
@@ -10,14 +9,6 @@
 </script>
 
 
-layout: post
-title: '小草快长'
-subtitle: ‘轻量化静态回家路指南’
-date: 2018-11-07
-categories: Jekyll+GitHub
-cover: 'http://bpic.588ku.com/back_pic/00/01/58/89560549d7b26c1.jpg'
-tags: Jekyll Github Gitee Markdown HTML JavaScript
----
 
 **ykcl（要看草榴）**
 
