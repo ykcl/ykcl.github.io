@@ -21,7 +21,7 @@
 *  **[地址1](https://bb.br8.club/)**
 ----
   
-*  **[地址2](https://xn--tqv960d.ml/)**
+*  **[地址2](https://素素.ml/)**
 ----
   
 *  **[地址3](https://xn--ihqz33hclp.ml/)**
